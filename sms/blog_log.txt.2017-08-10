@@ -1,0 +1,2 @@
+2017-08-10 15:12:07,943 [main] [sms.TestLog4j] [DEBUG] -  this is debug 
+2017-08-10 15:12:07,947 [main] [sms.TestLog4j] [ERROR] -  this is error 
